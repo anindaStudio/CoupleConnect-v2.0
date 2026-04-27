@@ -37,19 +37,7 @@ Backend: Python
 Database: SQLite
 AI: Groq / OpenAI-compatible API
 Email Service: EmailJS
-⚙️ Installation
-git clone https://github.com/YOUR_USERNAME/couple-connect-ai.git
-cd couple-connect-ai
-pip install -r requirements.txt
-🔐 Setup API Key
 
-Create a file:
-
-.streamlit/secrets.toml
-
-Add your API key:
-
-GROQ_API_KEY = "your_api_key_here"
 ▶️ Run Locally
 streamlit run main.py
 🌍 Deployment
