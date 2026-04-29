@@ -2,4 +2,5 @@ streamlit
 requests
 Pillow
 replicate
-openai
+openai>=1.0.0
+groq
